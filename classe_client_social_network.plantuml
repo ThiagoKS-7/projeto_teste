@@ -1,0 +1,4 @@
+class ClientSocialnetwork{
+    client: Client
+    socialnetwork: Socialnetwork
+}
